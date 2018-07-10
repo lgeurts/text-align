@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Center Align",
+        "command": "center-align:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Center Align",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "center-align:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
