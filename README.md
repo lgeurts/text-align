@@ -16,3 +16,4 @@
 ## TODO:
 
 * Get option to show up in context menu
+* Add a .gif or before and after photos showing the action
