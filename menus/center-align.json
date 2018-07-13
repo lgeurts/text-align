@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle Center Align",
+        "label": "Center Align",
         "command": "center-align:toggle"
       }
     ]
