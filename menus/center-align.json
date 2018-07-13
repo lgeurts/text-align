@@ -15,7 +15,7 @@
           "label": "Center Align",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Center Align",
               "command": "center-align:toggle"
             }
           ]
