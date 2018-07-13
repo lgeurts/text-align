@@ -15,5 +15,5 @@
 
 ## TODO:
 
-* Get option to show up in context menu
+* Figure out how to rename context menu label
 * Add a .gif or before and after photos showing the action
