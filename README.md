@@ -1,13 +1,25 @@
 # Center Align
+An [Atom](https://atom.io) text editor package that center aligns text between
+the left side of the text editor and the preferredLineLength.
+
+## Before Selection
+![Before Selection](./Screenshots/Before-Selection.png)
+
+## After Selection
+![After Selection](./Screenshots/After-Selection.png)
+
+## Before Single Line
+![Before Single Line](./Screenshots/Before-Single-Line.png)
+
+## After Single Line
+![After Single Line](./Screenshots/After-Single-Line.png)
 
 ## Description:
 
-* An Atom text editor package that center aligns text between the left side of
-the text editor and the preferredLineLength.  If a selection is made, all text
-within the selection will be centered, if no selection is made, text on the line
-of the cursor is centered.  This is most useful when centering items in academic
-papers, such as titles and works cited headings, but it can be used to center
-align entire documents of text as well.
+* If a selection is made, all text within the selection will be centered, if no
+selection is made, text on the line of the cursor is centered.  This is most
+useful when centering items in academic papers, such as titles and works cited
+headings, but it can be used to center align entire documents of text as well.
 
 ## Future Features:
 
@@ -21,5 +33,4 @@ to include some sort of left-justify algorithm to undo it.
 
 ## TODO:
 
-* Add a .gif or before and after photos showing the action before publishing
 * Find a way to implement this where undoing it will only take one command z
