@@ -31,7 +31,9 @@ undo it.
 
 ## Bug(s)
 
-* Not working with certain elements in code (like brackets and braces)
+* Not working with certain elements in code files (like brackets and braces),
+however, I don't see many people using it in code.  At any rate, I will try to
+fix this.
 
 ## TODO:
 
