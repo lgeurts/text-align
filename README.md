@@ -11,7 +11,7 @@ of the cursor is centered.
 
 ## Bug(s)
 
-* None currently?
+* Not working with certain elements in code (like brackets and braces)
 
 ## TODO:
 
