@@ -2,17 +2,17 @@
 An [Atom](https://atom.io) text editor package that center aligns text between
 the left side of the text editor and the preferredLineLength.
 
-## Before Selection
-![Before Selection](./Screenshots/Before-Selection.png)
-
-## After Selection
-![After Selection](./Screenshots/After-Selection.png)
-
 ## Before Single Line
 ![Before Single Line](./Screenshots/Before-Single-Line.png)
 
 ## After Single Line
 ![After Single Line](./Screenshots/After-Single-Line.png)
+
+## Before Selection
+![Before Selection](./Screenshots/Before-Selection.png)
+
+## After Selection
+![After Selection](./Screenshots/After-Selection.png)
 
 ## Description:
 
