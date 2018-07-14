@@ -16,8 +16,8 @@ the left side of the text editor and the preferredLineLength.
 
 ## Description:
 
+* If no selection is made, text on the line of the cursor is centered.  
 * If a selection is made, all text within the selection will be centered
-* Ff no selection is made, text on the line of the cursor is centered.  
 * This is most useful when centering items in academic papers, such as titles
 and works cited headings, but it can be used to center align entire documents of
 text as well.
@@ -36,3 +36,4 @@ undo it.
 ## TODO:
 
 * Find a way to implement this where undoing it will only take one command z
+* Release
