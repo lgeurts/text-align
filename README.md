@@ -24,7 +24,7 @@ text as well.
 
 ## Future Features:
 
-## Bug(s)
+## Bug(s):
 
 * Not working with certain elements in code files (like ending brackets and
 braces), however, I don't see many people using it in code.  At any rate, I will
