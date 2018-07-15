@@ -1,10 +1,9 @@
 {
   "name": "center-align",
   "main": "./lib/center-align",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An Atom text editor package that center aligns text between the left side of the editor and the Preferred Line Length setting.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "center-align:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
