@@ -54,6 +54,5 @@ name)
         - [x] Left
         - [x] Right
         - [x] Center
-* Reselect same lines again after to you can quickly use another command after
 * Merge into master and delete branch
 * Publish to atom.io
