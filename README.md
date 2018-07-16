@@ -34,25 +34,6 @@ try to fix this.
 * Work on efficiency of algorithm
 * Clean up algorithm
 * Add new pictures to showcase other alignment options
-* Rename everything in this repo to "text-align" or something: README.md, all
-code, folder, github repo (just go through all files individually and search old
-name)
-* Make sure all commands are supported:
-    - [x] Context Menu
-        - [x] Left
-        - [x] Right
-        - [x] Center
-    - [x] Package Menu
-        - [x] Left
-        - [x] Right
-        - [x] Center
-    - [x] Command Palette
-        - [x] Left
-        - [x] Right
-        - [x] Center
-    - [x] Key Commands
-        - [x] Left
-        - [x] Right
-        - [x] Center
-* Merge into master and delete branch
+* Add other options to activationCommands in package.json
+* Fix bug where commands and such don't work right away after opening atom
 * Publish to atom.io
