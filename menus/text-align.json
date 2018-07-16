@@ -22,7 +22,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Center Align",
+          "label": "Text Align",
           "submenu": [
             {
               "label": "Center Align",
