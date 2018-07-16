@@ -42,9 +42,9 @@ name)
         - [x] Left
         - [x] Right
         - [x] Center
-    - [ ] Package Menu
+    - [x] Package Menu
         - [x] Left
-        - [ ] Right
+        - [x] Right
         - [x] Center
     - [x] Command Palette
         - [x] Left
@@ -54,5 +54,6 @@ name)
         - [x] Left
         - [x] Right
         - [x] Center
+* Reselect same lines again after to you can quickly use another command after
 * Merge into master and delete branch
 * Publish to atom.io
