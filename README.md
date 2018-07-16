@@ -34,8 +34,10 @@ try to fix this.
 * Work on efficiency of algorithm
 * Clean up algorithm
 * Add new pictures to showcase other alignment options
-* Rename everything in this repo to "text-align" or something: README.md, all code, folder, github
+* Rename everything in this repo to "text-align" or something: README.md, all
+code, folder, github
 repo (just go through all files individually and search old name)
-* Make sure all commands are supported (context menu, package menu, command palette)
+* Make sure all commands are supported (context menu, package menu, command
+palette, key commands)
 * Merge into master and delete branch
 * Publish to atom.io
