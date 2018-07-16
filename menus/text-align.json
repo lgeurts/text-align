@@ -27,6 +27,11 @@
             {
               "label": "Center Align",
               "command": "center-align:toggle"
+            },
+
+            {
+              "label": "Left Align",
+              "command": "left-align:toggle"
             }
           ]
         }
