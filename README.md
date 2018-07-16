@@ -35,9 +35,24 @@ try to fix this.
 * Clean up algorithm
 * Add new pictures to showcase other alignment options
 * Rename everything in this repo to "text-align" or something: README.md, all
-code, folder, github
-repo (just go through all files individually and search old name)
-* Make sure all commands are supported (context menu, package menu, command
-palette, key commands)
+code, folder, github repo (just go through all files individually and search old
+name)
+* Make sure all commands are supported:
+    - [x] Context Menu
+        - [x] Left
+        - [x] Right
+        - [x] Center
+    - [ ] Package Menu
+        - [x] Left
+        - [ ] Right
+        - [x] Center
+    - [x] Command Palette
+        - [x] Left
+        - [x] Right
+        - [x] Center
+    - [ ] Key Commands
+        - [ ] Left
+        - [ ] Right
+        - [x] Center
 * Merge into master and delete branch
 * Publish to atom.io
