@@ -1,7 +1,7 @@
 {
   "name": "center-align",
   "main": "./lib/center-align",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Center align text between the left side of the editor and the Preferred Line Length setting.",
   "keywords": [],
   "activationCommands": {
