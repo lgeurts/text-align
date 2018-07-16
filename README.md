@@ -24,6 +24,8 @@ may find other uses for it.
 * If no selection is made, text on the line of the cursor is aligned.  
 * If a selection is made, all lines of text containing the selection
 will be aligned.
+* Any line exceeding the Preferred Line Length setting will be ignored as well
+as blank lines.
 
 ## Future Features:
 
