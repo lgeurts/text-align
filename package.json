@@ -3,7 +3,14 @@
   "main": "./lib/text-align",
   "version": "0.0.0",
   "description": "Left, center, and right align text between the left side of the editor and the Preferred Line Length setting.",
-  "keywords": [],
+  "keywords": [
+    "left",
+    "right",
+    "center",
+    "align",
+    "text",
+    "manipulation"
+  ],
   "repository": "https://github.com/JosephTLyons/text-align",
   "license": "MIT",
   "engines": {
