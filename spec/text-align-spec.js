@@ -1,44 +1,44 @@
 'use babel';
 
-import CenterAlign from '../lib/center-align';
+import TextAlign from '../lib/text-align';
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
 // To run a specific `it` or `describe` block add an `f` to the front (e.g. `fit`
 // or `fdescribe`). Remove the `f` to unfocus the block.
 
-describe('CenterAlign', () => {
+describe('TextAlign', () => {
   let workspaceElement, activationPromise;
 
   beforeEach(() => {
     workspaceElement = atom.views.getView(atom.workspace);
-    activationPromise = atom.packages.activatePackage('center-align');
+    activationPromise = atom.packages.activatePackage('text-align');
   });
 
-  describe('when the center-align:toggle event is triggered', () => {
+  describe('when the text-align:toggle event is triggered', () => {
     it('hides and shows the modal panel', () => {
       // Before the activation event the view is not on the DOM, and no panel
       // has been created
-      expect(workspaceElement.querySelector('.center-align')).not.toExist();
+      expect(workspaceElement.querySelector('.text-align')).not.toExist();
 
       // This is an activation event, triggering it will cause the package to be
       // activated.
-      atom.commands.dispatch(workspaceElement, 'center-align:toggle');
+      atom.commands.dispatch(workspaceElement, 'text-align:toggle');
 
       waitsForPromise(() => {
         return activationPromise;
       });
 
       runs(() => {
-        expect(workspaceElement.querySelector('.center-align')).toExist();
+        expect(workspaceElement.querySelector('.text-align')).toExist();
 
-        let centerAlignElement = workspaceElement.querySelector('.center-align');
-        expect(centerAlignElement).toExist();
+        let textAlignElement = workspaceElement.querySelector('.text-align');
+        expect(textAlignElement).toExist();
 
-        let centerAlignPanel = atom.workspace.panelForItem(centerAlignElement);
-        expect(centerAlignPanel.isVisible()).toBe(true);
-        atom.commands.dispatch(workspaceElement, 'center-align:toggle');
-        expect(centerAlignPanel.isVisible()).toBe(false);
+        let textAlignPanel = atom.workspace.panelForItem(textAlignElement);
+        expect(textAlignPanel.isVisible()).toBe(true);
+        atom.commands.dispatch(workspaceElement, 'text-align:toggle');
+        expect(textAlignPanel.isVisible()).toBe(false);
       });
     });
 
@@ -51,11 +51,11 @@ describe('CenterAlign', () => {
       // workspaceElement to the DOM are generally slower than those off DOM.
       jasmine.attachToDOM(workspaceElement);
 
-      expect(workspaceElement.querySelector('.center-align')).not.toExist();
+      expect(workspaceElement.querySelector('.text-align')).not.toExist();
 
       // This is an activation event, triggering it causes the package to be
       // activated.
-      atom.commands.dispatch(workspaceElement, 'center-align:toggle');
+      atom.commands.dispatch(workspaceElement, 'text-align:toggle');
 
       waitsForPromise(() => {
         return activationPromise;
@@ -63,10 +63,10 @@ describe('CenterAlign', () => {
 
       runs(() => {
         // Now we can test for view visibility
-        let centerAlignElement = workspaceElement.querySelector('.center-align');
-        expect(centerAlignElement).toBeVisible();
-        atom.commands.dispatch(workspaceElement, 'center-align:toggle');
-        expect(centerAlignElement).not.toBeVisible();
+        let textAlignElement = workspaceElement.querySelector('.text-align');
+        expect(textAlignElement).toBeVisible();
+        atom.commands.dispatch(workspaceElement, 'text-align:toggle');
+        expect(textAlignElement).not.toBeVisible();
       });
     });
   });
