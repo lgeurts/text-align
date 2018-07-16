@@ -2,8 +2,18 @@
   "context-menu": {
     "atom-text-editor": [
       {
+        "label": "Left Align",
+        "command": "left-align:toggle"
+      },
+
+      {
         "label": "Center Align",
         "command": "center-align:toggle"
+      },
+
+      {
+        "label": "Right Align",
+        "command": "right-align:toggle"
       }
     ]
   },
