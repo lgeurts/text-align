@@ -1,7 +1,7 @@
 {
   "name": "text-align",
   "main": "./lib/text-align",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Left, center, and right align text between the left side of the editor and the Preferred Line Length setting.",
   "keywords": [
     "left",
@@ -15,6 +15,6 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-},
+  },
   "dependencies": {}
 }
