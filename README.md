@@ -1,4 +1,4 @@
-# Center Align
+# Text Align
 An [Atom](https://atom.io) text editor package that center aligns text between
 the left side of the editor and the Preferred Line Length setting.
 
@@ -16,11 +16,9 @@ the left side of the editor and the Preferred Line Length setting.
 
 ## Description:
 
-* If no selection is made, text on the line of the cursor is centered.  
-* If a selection is made, all text within the selection will be centered.
-* This is most useful when centering items in academic papers, such as titles
-and works cited headings, but it can be used to center align entire documents of
-text as well.
+* If no selection is made, text on the line of the cursor is aligned.  
+* If a selection is made, all text within the selection will be aligned.
+* This package is most useful when aligning items in academic papers.
 
 ## Future Features:
 
@@ -33,3 +31,10 @@ try to fix this.
 ## TODO:
 
 * Work on efficiency of algorithm
+* Clean up algorithm
+* Add new pictures to showcase other alignment options
+* Rename everything in this repo to "text-align" or something: README.md, all code, folder, github
+repo (just go through all files individually and search old name)
+* Make sure all commands are supported (context menu, package menu, command palette)
+* Merge into master and delete branch
+* Publish to atom.io
