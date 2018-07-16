@@ -34,6 +34,4 @@ try to fix this.
 * Work on efficiency of algorithm
 * Clean up algorithm
 * Add new pictures to showcase other alignment options
-* Add other options to activationCommands in package.json
-* Fix bug where commands and such don't work right away after opening atom
 * Publish to atom.io
