@@ -50,9 +50,9 @@ name)
         - [x] Left
         - [x] Right
         - [x] Center
-    - [ ] Key Commands
-        - [ ] Left
-        - [ ] Right
+    - [x] Key Commands
+        - [x] Left
+        - [x] Right
         - [x] Center
 * Merge into master and delete branch
 * Publish to atom.io

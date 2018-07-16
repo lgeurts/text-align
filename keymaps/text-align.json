@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "cmd-shift-c": "center-align:toggle"
+    "ctrl-alt-cmd-l": "left-align:toggle",
+    "ctrl-alt-cmd-c": "center-align:toggle",
+    "ctrl-alt-cmd-r": "right-align:toggle"
   }
 }
