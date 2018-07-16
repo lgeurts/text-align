@@ -1,6 +1,7 @@
 # Text Align
-An [Atom](https://atom.io) text editor package that center aligns text between
-the left side of the editor and the Preferred Line Length setting.
+An [Atom](https://atom.io) text editor package that left, center, and right
+aligns text between the left side of the editor and the Preferred Line Length
+setting.
 
 ## Before Single Line
 ![Before Single Line](./Screenshots/Before-Single-Line.png)
