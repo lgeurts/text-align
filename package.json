@@ -5,7 +5,7 @@
   "description": "Left, center, and right align text between the left side of the editor and the Preferred Line Length setting.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "center-align:toggle",
+    "atom-workspace": "text-align:toggle",
   },
   "repository": "https://github.com/JosephTLyons/text-align",
   "license": "MIT",
