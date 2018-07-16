@@ -25,13 +25,13 @@
           "label": "Text Align",
           "submenu": [
             {
-              "label": "Center Align",
-              "command": "center-align:toggle"
+              "label": "Left Align",
+              "command": "left-align:toggle"
             },
 
             {
-              "label": "Left Align",
-              "command": "left-align:toggle"
+              "label": "Center Align",
+              "command": "center-align:toggle"
             }
           ]
         }
