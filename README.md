@@ -36,3 +36,8 @@ try to fix this.
 * Work on efficiency of algorithm
 * Clean up algorithm
 * Add new pictures to demonstrate other alignment options
+
+## Note:
+
+* You will not find v0.1.0 at all.  v0.1.0 relates to an earlier version of this
+package called `center-align` and is no longer published.
