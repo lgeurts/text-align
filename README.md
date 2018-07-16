@@ -3,16 +3,16 @@ An [Atom](https://atom.io) text editor package that left, center, and right
 aligns text between the left side of the editor and the Preferred Line Length
 setting.
 
-## Before Single Line
+## Before Centering Single Line
 ![Before Single Line](./Screenshots/Before-Single-Line.png)
 
-## After Single Line (Centering)
+## After Centering Single Line
 ![After Single Line](./Screenshots/After-Single-Line.png)
 
-## Before Selection
+## Before Centering Selection
 ![Before Selection](./Screenshots/Before-Selection.png)
 
-## After Selection (Centering)
+## After Centering Selection
 ![After Selection](./Screenshots/After-Selection.png)
 
 ## Description:
