@@ -39,7 +39,9 @@ try to fix this.
 * Clean up algorithm
 * Add new pictures to demonstrate other alignment options
 
-## Note:
+## Notes:
 
 * You will not find v0.1.0 at all.  v0.1.0 relates to an earlier version of this
 package called `center-align` and is no longer published.
+
+* [Link to demonstration text.](https://github.com/JosephTLyons/Academic-Papers/blob/master/More%20Than%20Metal%20-%20A%20Brotherhood%20of%20Acceptance.txt)
