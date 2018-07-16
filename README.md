@@ -6,13 +6,13 @@ setting.
 ## Before Single Line
 ![Before Single Line](./Screenshots/Before-Single-Line.png)
 
-## After Single Line
+## After Single Line (Centering)
 ![After Single Line](./Screenshots/After-Single-Line.png)
 
 ## Before Selection
 ![Before Selection](./Screenshots/Before-Selection.png)
 
-## After Selection
+## After Selection (Centering)
 ![After Selection](./Screenshots/After-Selection.png)
 
 ## Description:
@@ -33,5 +33,4 @@ try to fix this.
 
 * Work on efficiency of algorithm
 * Clean up algorithm
-* Add new pictures to showcase other alignment options
-* Publish to atom.io
+* Add new pictures to demonstrate other alignment options
