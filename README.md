@@ -19,9 +19,11 @@ Here are some examples of using the "Center Align" option:
 
 ## Description:
 
+* This package aims to be useful when aligning items in academic papers, but you
+may find other uses for it.
 * If no selection is made, text on the line of the cursor is aligned.  
-* If a selection is made, all text within the selection will be aligned.
-* This package is most useful when aligning items in academic papers.
+* If a selection is made, all lines of text containing some of the selection
+will be aligned.
 
 ## Future Features:
 
