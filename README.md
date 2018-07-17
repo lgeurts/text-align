@@ -29,6 +29,8 @@ as blank lines.
 
 ## Future Features:
 
+* Add justify algorithm (not sure how feasible this is)
+
 ## Bug(s):
 
 * Not working with certain elements in code files (like ending brackets and
@@ -38,7 +40,7 @@ try to fix this.
 ## TODO:
 
 * Work on efficiency of algorithm
-* Clean up algorithm
+* Clean up algorithm (refactor)
 * Add new pictures to demonstrate other alignment options
 
 ## Notes:
