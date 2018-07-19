@@ -30,6 +30,12 @@ as blank lines.
 ## Future Features:
 
 * Add justify algorithm (not sure how feasible this is)
+    * Algorithm:
+        1. Count leftover spaces after a line of text is trimmed
+        2. Count words on line
+        3. Divide leftover spaces by (words on line - 1)
+        4. Whole number is amount of spaces to place in between words
+        5. Mod is extra spaces to add in as symmetrically as possible
 
 ## Bugs:
 
