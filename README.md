@@ -31,7 +31,7 @@ as blank lines.
 
 * Add justify algorithm (not sure how feasible this is)
 
-## Bug(s):
+## Bugs:
 
 * Not working with certain elements in code files (like ending brackets and
 braces), however, I don't see many people using it in code.  At any rate, I will
