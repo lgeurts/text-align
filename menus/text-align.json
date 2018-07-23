@@ -42,6 +42,11 @@
             {
               "label": "Right Align",
               "command": "right-align:toggle"
+            },
+
+            {
+              "label": "Justify",
+              "command": "justify:toggle"
             }
           ]
         }
