@@ -1,3 +1,10 @@
+## v0.3.0
+- Now supports `justify`.  Text will be spaced out as evenly as possible so that
+the text spans from the left side of the editor to the preferredLineLength.
+- Massive refactoring of the code, but this may have come at the cost of
+efficiency.  I absolutely welcome an pull requests that might lead to more
+efficient solutions.
+
 ## v0.2.2
 - After algorithm runs, selection now covers all of the text moved.  Prior, the
 selection might not cover the moved text, as the selection was being reset
