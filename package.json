@@ -2,12 +2,13 @@
   "name": "text-align",
   "main": "./lib/text-align",
   "version": "0.2.2",
-  "description": "Left, center, and right align text between the left side of the editor and the Preferred Line Length setting.",
+  "description": "Left align, center, right align, and justify text between the left side of the editor and the Preferred Line Length setting.",
   "keywords": [
     "left",
     "center",
     "right",
     "align",
+    "justify",
     "text",
     "manipulation"
   ],
