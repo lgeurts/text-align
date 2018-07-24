@@ -3,19 +3,8 @@ An [Atom](https://atom.io) text editor package that left, center, and right
 aligns text between the left side of the editor and the Preferred Line Length
 setting.
 
-Here are some examples of using the "Center Align" option:
-
-## Before Centering Single Line
-![Before Single Line](./Screenshots/Before-Single-Line.png)
-
-## After Centering Single Line
-![After Single Line](./Screenshots/After-Single-Line.png)
-
-## Before Centering Selection
-![Before Selection](./Screenshots/Before-Selection.png)
-
-## After Centering Selection
-![After Selection](./Screenshots/After-Selection.png)
+## Action
+![Action](./text-align.gif)
 
 ## Description:
 
@@ -56,5 +45,3 @@ welcome an pull requests that might lead to more efficient solutions.
 
 * You will not find v0.1.0 at all.  v0.1.0 relates to an earlier version of this
 package called `center-align` and is no longer published.
-
-* [Link to demonstration text.](https://github.com/JosephTLyons/Academic-Papers/blob/master/More%20Than%20Metal%20-%20A%20Brotherhood%20of%20Acceptance.txt)
