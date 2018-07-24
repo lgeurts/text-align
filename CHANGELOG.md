@@ -2,7 +2,7 @@
 - Now supports `justify`.  Text will be spaced out as evenly as possible so that
 the text spans from the left side of the editor to the preferredLineLength.
 - Massive refactoring of the code, but this may have come at the cost of
-efficiency.  I absolutely welcome an pull requests that might lead to more
+efficiency.  I absolutely welcome any pull requests that might lead to more
 efficient solutions.
 
 ## v0.2.2

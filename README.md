@@ -30,7 +30,7 @@ try to fix this.
 chunks of text, this has a lot to do with the implementation and the refactoring
 I did to make the code more readable.  Passing around large objects from
 function to function for each line of text might be the culprit.  I absolutely
-welcome an pull requests that might lead to more efficient solutions.
+welcome any pull requests that might lead to more efficient solutions.
 * Update .gif after justify algorithm is finished
 
 ## Notes:
