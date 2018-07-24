@@ -4,7 +4,7 @@ aligns text between the left side of the editor and the Preferred Line Length
 setting.
 
 ## `text-align` in Action:
-![Action](./text-align.gif)
+![Action](./misc/text-align.gif)
 
 ## Description:
 
