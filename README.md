@@ -3,7 +3,7 @@ An [Atom](https://atom.io) text editor package that left, center, and right
 aligns text between the left side of the editor and the Preferred Line Length
 setting.
 
-## Action
+## `text-align` in Action:
 ![Action](./text-align.gif)
 
 ## Description:
