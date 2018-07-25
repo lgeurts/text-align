@@ -21,12 +21,12 @@ as blank lines.
 ## Bugs:
 
 * Not working with certain elements in code files (like ending brackets and
-braces), however, I don't see many people using it in code.  At any rate, I will
-try to fix this.
+braces), however, I cannot imagine anyone using this package to manipulate code.  At
+any rate, I will try to fix this.
 
 ## TODO:
 
-* Work on efficiency of algorithm - these algorithms are fairly slow on larger
+* Work on efficiency of algorithms - these algorithms are fairly slow on larger
 chunks of text, this has a lot to do with the implementation and the refactoring
 I did to make the code more readable.  Passing around large objects from
 function to function for each line of text might be the culprit.  I absolutely
