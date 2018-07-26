@@ -18,8 +18,13 @@ as blank lines.
 
 ## Future Features:
 
-* Make distribution of leftover spaces during `justify` more symmetrical and
-appealing.
+* Add a de-justify command (possibly).  Currently, left/center/right aligning
+is easy to fix, since spacing is only added around the text and the user can
+simply just toggle another alignment command.  However, justify can't be fixed
+without using undo, which means that it will be stuck that way if undoing isn't
+possible or if the undo is too far back in the undo history.  So this means it
+might make sense to add a de-justify algorithm, although I'll need to think
+about this for a bit
 
 ## Bugs:
 
