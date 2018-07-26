@@ -29,8 +29,8 @@ about this for a bit
 ## Bugs:
 
 * Not working with certain elements in code files (like ending brackets and
-braces), however, I cannot imagine anyone using this package to manipulate code.  At
-any rate, I will try to fix this.
+braces), however, I cannot imagine anyone using this package to manipulate code.
+At any rate, I will try to fix this.
 
 ## TODO:
 
