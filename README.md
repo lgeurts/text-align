@@ -18,6 +18,9 @@ as blank lines.
 
 ## Future Features:
 
+* Make distribution of leftover spaces during `justify` more symmetrical and
+appealing.
+
 ## Bugs:
 
 * Not working with certain elements in code files (like ending brackets and
@@ -26,6 +29,13 @@ any rate, I will try to fix this.
 
 ## TODO:
 
+* Currently, the `justify` algorithm does its best to evenly distribute spaces
+between words in a line, but then any leftover spaces will get places into the
+leftmost spaces and slowly work their way towards the right.  This was just my
+initial solution to get the package out, but I realize that this left-heavy
+space placement is a bit unappealing in its asymmetry.  I'd like to work on it
+so that it evenly places spaces on the left side of a row, on the right side,
+and in the center.
 * Work on efficiency of algorithms - these algorithms are fairly slow on larger
 chunks of text, this has a lot to do with the implementation and the refactoring
 I did to make the code more readable.  Passing around large objects from
