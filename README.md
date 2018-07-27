@@ -24,7 +24,7 @@ simply just toggle another alignment command.  However, justify can't be fixed
 without using undo, which means that it will be stuck that way if undoing isn't
 possible or if the undo is too far back in the undo history.  So this means it
 might make sense to add a de-justify algorithm, although I'll need to think
-about this for a bit
+about this for a bit.
 
 ## Bugs:
 
