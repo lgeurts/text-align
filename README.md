@@ -1,9 +1,11 @@
 # Text Align
+
 An [Atom](https://atom.io) text editor package that supports left aligning,
 centering, right aligning, and justification of text between the left side of
 the editor and the Preferred Line Length setting.
 
 ## `text-align` in Action:
+
 ![Action](./misc/text-align.gif)
 
 ## Description:
