@@ -4,7 +4,7 @@
 
 An [Atom](https://atom.io) text editor package that supports left aligning,
 centering, right aligning, and justification of text between the left side of
-the editor and the Preferred Line Length setting.
+the editor and the Preferred Line Length setting.  Text can also be justified.
 
 ## `text-align` in Action:
 
